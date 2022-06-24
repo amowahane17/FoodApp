@@ -108,7 +108,7 @@
                     android:layout_height="wrap_content"
                     android:layout_marginBottom="20dp"
                     android:background="@drawable/btn1_gradient"
-                    android:text="Register"
+                    android:text="Sign up"
                     android:textStyle="bold" />
 
                 <LinearLayout
@@ -179,7 +179,7 @@
                 </LinearLayout>
 
                 <TextView
-                    android:id="@+id/textView5"
+                    android:id="@+id/alreayHaveAcc"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginBottom="30dp"
